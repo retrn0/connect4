@@ -1,0 +1,28 @@
+.container {
+  margin: 0 auto;
+  width: 700px;
+  margin-top: 50px;
+}
+
+.row {
+  height: 100px;
+  width: 100%;
+}
+
+.cell {
+  float: left;
+  width: 100px;
+  height: 100%;
+  background-color: bisque;
+  margin: 2px;
+}
+
+.move-red {
+  border-radius: 50%;
+  background-color: red;
+}
+
+.move-black {
+  border-radius: 50%;
+  background-color: red;
+}
